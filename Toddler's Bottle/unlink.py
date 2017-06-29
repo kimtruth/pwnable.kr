@@ -1,5 +1,5 @@
 from pwn import *
-p = process('/home/unlink/unlink')
+p = process('./unlink')
 
 stack_addr = int(p.recvline().split(':')[1], 16)
 log.info('stack_addr : ' + hex(stack_addr))
