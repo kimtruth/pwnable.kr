@@ -21,7 +21,7 @@ just memo
 - [x] codemap
 - [ ] memcpy
 - [ ] asm
-- [ ] unlink
+- [x] unlink
 	
 ## [Rookiss]
 - [ ] brain fuck
