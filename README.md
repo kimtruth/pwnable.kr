@@ -27,7 +27,7 @@ just memo
 - [ ] brain fuck
 - [x] md5 calculator
 - [x] simple login
-- [ ] otp
+- [x] otp
 - [x] ascii_easy
 - [ ] tiny_easy
 - [x] fsb
