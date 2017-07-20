@@ -29,7 +29,7 @@ just memo
 - [x] simple login
 - [x] otp
 - [x] ascii_easy
-- [ ] tiny_easy
+- [x] tiny_easy
 - [x] fsb
 - [ ] dragon
 - [x] fix
