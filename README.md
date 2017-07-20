@@ -22,7 +22,7 @@ just memo
 - [ ] memcpy
 - [ ] asm
 - [x] unlink
-	
+
 ## [Rookiss]
 - [ ] brain fuck
 - [x] md5 calculator
@@ -40,13 +40,13 @@ just memo
 - [ ] rsa calculator
 - [ ] note
 - [ ] alloca
- 
+
 ## [Grotesque]
 - [ ] proxy server
 - [ ] rootkit
 - [ ] dos4fun
 - [ ] ascii
-- [ ] aeg
+- [x] aeg
 - [x] coin2
 - [x] maze
 - [ ] wtf
@@ -57,7 +57,7 @@ just memo
 - [ ] lfh
 - [ ] lokihardt
 - [ ] asg
- 
+
 ## [Hacker's Secret]
 - [ ] unexploitable
 - [ ] tiny
