@@ -20,7 +20,7 @@ just memo
 - [x] uaf
 - [x] codemap
 - [ ] memcpy
-- [ ] asm
+- [x] asm
 - [x] unlink
 
 ## [Rookiss]
