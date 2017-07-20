@@ -31,7 +31,7 @@ just memo
 - [x] ascii_easy
 - [x] tiny_easy
 - [x] fsb
-- [ ] dragon
+- [x] dragon
 - [x] fix
 - [ ] syscall
 - [ ] crypto1
