@@ -24,7 +24,7 @@ just memo
 - [x] unlink
 
 ## [Rookiss]
-- [ ] brain fuck
+- [x] brain fuck
 - [x] md5 calculator
 - [x] simple login
 - [x] otp
