@@ -34,7 +34,7 @@ just memo
 - [x] dragon
 - [x] fix
 - [x] syscall
-- [ ] crypto1
+- [x] crypto1
 - [x] echo1
 - [x] echo2
 - [ ] rsa calculator
