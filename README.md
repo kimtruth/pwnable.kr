@@ -33,7 +33,7 @@ just memo
 - [x] fsb
 - [x] dragon
 - [x] fix
-- [ ] syscall
+- [x] syscall
 - [ ] crypto1
 - [x] echo1
 - [x] echo2
