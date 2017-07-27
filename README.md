@@ -19,7 +19,7 @@ just memo
 - [x] cmd2
 - [x] uaf
 - [x] codemap
-- [ ] memcpy
+- [x] memcpy
 - [x] asm
 - [x] unlink
 
