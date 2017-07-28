@@ -37,7 +37,7 @@ just memo
 - [x] crypto1
 - [x] echo1
 - [x] echo2
-- [ ] rsa calculator
+- [x] rsa calculator
 - [ ] note
 - [ ] alloca
 
